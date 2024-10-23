@@ -1,0 +1,14 @@
+MauseDucky
+
+Bom, neste projeto que criei, o meu objetivo foi esconder um digispark para execução de um ataque de Bad Usb que nada mais é do que um dispositivo que tem capacidade de emular um teclado e mause!
+
+
+O dispositivo e uma alternativa ao hardware conhecido como rubber ducky dai nasceu o nome do meu projeto, porém o digispark  muito mais acessível e pode executar praticamente, as mesmas funções simulando um dispositivo HID (Human Interface Device), simula um teclado nesse caso onde posso carregar um payload para o digispark digitar oque eu quiser no PC
+do alvo, incrivel não é?  
+
+Lembrando que esse material é para fins educacionais e pode ser testado em ambientes controlados ou com autorização. 
+
+Esse dispositivo pode abrir o powershell e abrir uma conexão reversa com uma máquina do atacante! Essa é uma entre muitas coisas que podem ser feitas apenas plugando esse.
+Dispositivo na máquina!
+
+Agora a baixo, fiquem com o processo de desenvolvimento V1.0 do MouseDucky
